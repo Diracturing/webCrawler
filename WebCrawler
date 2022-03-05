@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Mar  4 21:31:47 2022
+
+@author: Julius
+"""
+
+
+
+import requests
+from bs4 import BeautifulSoup
+import time
+
+
+
+startUrl="https://sv.wikipedia.org/wiki/Tankeexperiment"
+urlsTocrawl=[]
+urlsCrawled=[]
+
+maxCrawledSites=4
+
+
+
+def main():
+    urlsTocrawl.append(startUrl)
+    
+    crawledSites=0
+    while len(urlsTocrawl)!=0 and crawledSites!=maxCrawledSites:
+       
+        currentUrl=urlsTocrawl.pop(0)
+        
+        if currentUrl in urlsCrawled:
+            continue
+        urlsCrawled.append(currentUrl)
+        
+        
+        time.sleep(1)    ## to not overload
+        data=requests.get(currentUrl)        
+        
+        htmlData=BeautifulSoup(data.text,'html.parser')
+        title=htmlData.find('title').text
+        text=htmlData.find_all('p')
+        
+        for i in text:
+            b=i.find_all('a',href=True)
+            for j in b:
+                url=j["href"]
+                if("wiki" in url):
+                    urlsTocrawl.append("https://sv.wikipedia.org"+url)
+                    
+        with open("CrawledSites/"+title+'.txt', 'w') as f:
+            for line in text:
+                f.write(line.text)
+                f.write('\n')              
+    
+        crawledSites+=1
+
+if __name__=="__main__":
+    main()
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

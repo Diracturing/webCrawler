@@ -1,0 +1,32 @@
+Teori:
+
+Tolkningar:
+
+Persongalleri
+Einstein | Schrödinger
+
+Heisenberg | Dirac | Fermi
+
+Bohr | Planck | Born
+
+
+Schrödingers katt är ett tankeexperiment framlagt 1935 av Erwin Schrödinger[1] för att visa på brister i teorin om kvantmekaniken vid tillämpning på makroskopiskt plan, men det har populärt kommit att misstolkas som ett exempel på problemet med osäkerhet i observationer som uppkommer av att någon faktiskt observerar (jämför om ett träd faller i skogen när ingen hör - låter det då?).
+
+Schrödingers paradoxala illustration av kvanttillstånd, som han själv betecknade som fånigt, går ut på att en katt placeras i en sluten stålkammare. I stålkammaren placeras även en bit radioaktivt ämne med 50 % sannolikhet att sönderfalla inom en timme, samt en geigermätare kopplad till en hammare som krossar en flaska cyanid om sönderfall registreras, varvid katten skulle dö (under förutsättningen att cyaniden är placerad inom räckhåll för katten). Efter en timme hänger kattens öde på ett kvantmekaniskt tillstånd med samma sannolikhet för liv och död. Katten är både levande och död samtidigt enligt kvantmekaniskt synsätt.[2][3][4][5][6][7][8] Men, när kammaren öppnas, ser man bara en katt som antingen lever eller är död, inte både och. Frågan är: När övergår systemet från en blandning av tillstånd till antingen eller?
+
+Schrödinger ville alltså inte visa på att det verkligen var en levande-död katt, utan han ansåg att kvantmekanikens teori var ofullständig och icke representativ för verkligheten i detta fall.
+
+I köpenhamnstolkningen upphör ett system att vara en mix av tillstånd och blir det ena eller det andra när en observation har ägt rum.[9] Detta experiment anses illustrera den subjektiva naturen hos mätningar och observationer. Somliga tolkar experimentet som att när kammaren är stängd, så existerar systemet simultant i en mixad överlagring av tillstånden död och levande, och endast när kammaren öppnas och en observation utförs, så övergår vågfunktionen i ett av de båda tillstånden.[10][11] Mera intuitivt känner somliga att "observationen" görs när sönderfallet når geigermätaren. Hur som helst (och detta är en nyckelpoäng av tankeexperimentet) finns det ingen regel som säger antingen eller, och kvantmekanik är inkomplett utan en sådan regel och förklaring om hur en sådan regel uppstår.[12]
+
+I transaktionalitetstolkningen skickar apparaturen ut en avancerad våg tillbaka i tiden, vilken kombinerad med vågen som källan skickar framåt i tiden, formar en stående våg. Vågorna ses som fysiskt riktiga, och apparaten anses vara ''observanten''. I transaktionalitetstolkningen, är kollapsen av vågfunktionen atemporal och sker längs hela transaktionen mellan källan och apparaten. Katten är aldrig i superposition. Snarare är katten bara i ett tillstånd i taget, oavsett eventuell observatör.
+
+I Everetts flervärldstolkning, som inte utesluter observation som en speciell process, så finns båda tillstånden, men dekoherenta. När en observatör öppnar kammaren blir observatören själv som kvantmekaniskt system sammankopplad med katten, så att observatörstillstånd motsvarande kattens varande levande resp. död formas. De olika överlagrade observatörstillstånden kan fortsättningsvis inte interagera med varandra - observatörens universum har delats upp i två samtidigt existerande världar: en där katten lever och en där den är död.
+
+Paradoxalt nog har allt detta en praktisk betydelse i kvantkryptografin. Det är möjligt att sända ljus som är i ett överlagrat tillstånd genom en optisk fiber. Kopplas avlyssningsutrustning mitt på kabeln som tar emot och skickar vidare, så kollapsar vågfunktionen (i Köpenhamnstolkningen, "utförs en observation") och får ljuset att inta det ena eller andra tillståndet. Genom att utföra statistiska test på ljuset som mottas i andra änden av linan, så kan man avgöra om ljuset finns kvar i det överlagrade tillståndet eller har avlyssnats och skickats vidare. I princip möjliggör detta kommunikationssystem som inte kan avlyssnas utan upptäckt. Detta experiment (som kan utföras trots att fungerande kvantkryptografiska kommunikationssystem som kan överföra stora mängder data ännu inte har konstruerats) illustrerar också att en "observation" i Köpenhamnstolkningen inte har något att göra med medvetandet, utan även en fullkomligt omedveten avlyssning påverkar statistiken hos mottagaren.
+
+En variant av Schrödingers kattexperiment, känt som kvantsjälvmordsmaskin, har lagts fram av fysikern Max Tegmark. Det ställer frågan, hur ser Schrödingers kattexperiment ut ur kattens perspektiv, och resonerar att denna fråga kan göra det möjligt att skilja mellan Köpenhamns- och många-världartolkningen. En annan variant av detta experiment är Wigners vän.
+
+Fysikern Stephen Hawking har yttrat "When I hear about Schrodinger's cat, I reach for my gun".[13] Detta var en avsiktlig parafras av den tyske dramatikern och poeten Hanns Johsts antiintellektuella uttryck "När jag hör ordet kultur, osäkrar jag min revolver!".
+
+Eugene Wigner introducerade som ett alternativt tankeexperiment, Wigners vän. Wigner tänkte sig att katten ersattes av en "intelligent" varelse, i detta fall en fysiker som skämtsamt kallats Wigners vän. Denne är intelligent nog att vara medveten om sin egen belägenhet (vilket förvisso även katten kan tänkas vara) och kan därför berätta för den som öppnar lådan att han aldrig varit i något mittemellan-tillstånd. Om denne å andra sidan dör, kan han ju inte berätta det, och därför är även detta tankeexperiment ofullbordat.[14][15]
+
